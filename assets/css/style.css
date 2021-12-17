@@ -199,11 +199,14 @@ footer h2 {
     font-size: 20px;
 }
 
+/*  */
 @media screen and (max-width: 768px) {
+    /* Header 
     header {
         display:flex;
         flex-wrap: wrap;
     }
+
     .content {
         display:flex;
         flex-wrap: wrap;
@@ -225,6 +228,10 @@ footer h2 {
         flex-wrap:wrap;
     }
     .social-media-marketing img {
+        display:flex;
+        flex-wrap:wrap;
+    } */
+    * {
         display:flex;
         flex-wrap:wrap;
     }
