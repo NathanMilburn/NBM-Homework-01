@@ -199,9 +199,33 @@ footer h2 {
     font-size: 20px;
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width: 768px) {
     header {
-        
+        display:flex;
+        flex-wrap: wrap;
     }
-
+    .content {
+        display:flex;
+        flex-wrap: wrap;
+    }
+    .hero {
+        display:flex;
+        flex-wrap:wrap;
+    }
+    .benefits {
+        display:flex;
+        flex-wrap:wrap;
+    }
+    .search-engine-optimization img {
+        display:flex;
+        flex-wrap:wrap;
+    }
+    .online-reputation-management img {
+        display:flex;
+        flex-wrap:wrap;
+    }
+    .social-media-marketing img {
+        display:flex;
+        flex-wrap:wrap;
+    }
 }
