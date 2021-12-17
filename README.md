@@ -41,6 +41,6 @@ The next step was to figure out how I could optimize the "benefits" class and el
 
 
 <!-- Deployment URLs for Application and Github -->
-[deploymentApplication] "https://nathanmilburn.github.io/NBM-Homework-01/"
-[deploymentRepository] "https://github.com/NathanMilburn/NBM-Homework-01.git"
+[deploymentApplication] (https://nathanmilburn.github.io/NBM-Homework-01/)
+[deploymentRepository] (https://github.com/NathanMilburn/NBM-Homework-01.git)
 
