@@ -23,15 +23,13 @@ I began this process by inspecting the abundance of div tags segregating off eac
 
 From there, I began to research semantic alternatives that I could use to consolidate sertain sections and avoid an excess amount of div tags. 
 
-<!-- Image of semantic tag changes in first section -->
-
 With the div tag acting as a general use tag for dividing unique sections of code, I decided that a nav tag would be more effective for the "content" class as "search-engine-optimization", "online-reputation-management", and "social-media-marketing" acted as clickable buttons to navigate the user to a specific area of the page. Upon updating to nav tags, I noticed that one of the buttons labeled "Search-engine-optimization" was not functioning correctly. I found the cause of this to be a missing ID tag to link the nav tag to the specific section.
 
 From here I updated the div class="header" and div class="footer" to the semantics tags header and footer.
 
 I added an alt tag to each of the images explaining what is being depicted in the photo provided.
 
-The next step was to figure out how I could optimize the "benefits" class and eliminate the need for further div tags. While looking at the formatting of the original website, the "benefits" section seemed to act separately from the "content" which would explain its placement to the right of the screen. I chose to replace these div tags with article tags as an article tag is most commonly used to contain information that may be distributed independently from the rest of the site.
+The next step was to figure out how I could optimize the "benefits" class and eliminate the need for further div tags. While looking at the formatting of the original website, the "benefits" section seemed to act separately from the "content" which would explain its placement to the right of the screen. I chose to replace these div tags with aside tags as an aside tag is commonly used to present information that is related to the primary content of the page but is not the main focus for the user.
 
 
 
