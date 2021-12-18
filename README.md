@@ -37,8 +37,8 @@ The next step was to figure out how I could optimize the "benefits" class and el
 Refactored Website
 <!-- Images of refactored website -->
 
-![Refactored Top of Site](./assets/images/Homework-01-TOPSITE.PNG "Top of Website")
-![Refactored Bottom of Site](./assets/images//Homework-01-BOTTOMSITE.PNG "Bottom of Website")
+![Deployed Website Image](./assets/images/nathanmilburn.github.io_NBM-Homework-01_.PNG "Top of Website")
+
 
 <!-- Deployment URLs for Application and Github -->
 [deploymentApplication](https://nathanmilburn.github.io/NBM-Homework-01/)
