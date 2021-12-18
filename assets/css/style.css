@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed class='header' to a basic <header> tag */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Updated <div> tags to <nav> tags */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -188,6 +190,7 @@ p {
     font-size: 36px;
 }
 
+/* Changed class='footer' to a basic <footer> tag */
 footer {
     padding: 30px;
     clear: both;
